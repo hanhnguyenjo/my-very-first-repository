@@ -1,2 +1,3 @@
-# my-very-first-repository
-hello!
+# My very first README! :sparkles:
+Hello!  
+C'est moi, Hanh :smile:
